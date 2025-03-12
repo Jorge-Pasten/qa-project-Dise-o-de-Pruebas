@@ -5,6 +5,8 @@ Este proyecto forma parte del segundo sprint del programa de formación en QA En
 
 Urban Routes es una aplicación que permite a los usuarios crear rutas de viaje y calcular la duración y el precio del trayecto según distintos tipos de transporte, incluyendo automóvil propio, a pie, taxi, bicicleta, scooter y compartir un automóvil. En este ejercicio, el enfoque estuvo en la función de compartir un automóvil.
 
+<img width="1662" alt="UrbanRoutes" src="https://github.com/user-attachments/assets/be40557a-2744-4416-a922-937b2e92bb34" />
+
 ## Objetivo
 El objetivo principal es garantizar la calidad de la funcionalidad de compartir un automóvil mediante técnicas de diseño de pruebas como clases de equivalencia, valores límite y diagramas de flujo.
 
