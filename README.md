@@ -1,1 +1,1 @@
-# qa-project-Dise-o-de-Pruebas
+# qa-project-Diseno-de-Pruebas
